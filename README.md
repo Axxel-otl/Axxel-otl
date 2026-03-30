@@ -2,7 +2,7 @@
 ### About me
 - I wanna be a Robotics Engineer
 - I like music and videogames but I like robotics and technology the most
-- I'm learning C, C++, and Python
+- I'm constantly learning something different
 
 ### Code Languages I know (Or I'm learning)
 <p align="center">
