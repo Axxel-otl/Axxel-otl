@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there! I'm Axxel-otl. 👋
 
-<!--
-**Axxel-otl/Axxel-otl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ ] wanna be a Robotics Engineer
+- [ ] I like music and videogames but I like robotics and technology the most
+- [ ] I'm learning c, c++, and python
+
+### Languages I know (Or I'm learning)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  &nbsp; 🌱 Currently learning<br/>
+  <img src="https://skillicons.dev/icons?i=c" />
+  &nbsp; 🌱 Currently learning<br/>
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  &nbsp; 🌱 Currently learning<br/>
+  <img src="https://skillicons.dev/icons?i=python" />
+  &nbsp; 🌱 Currently learning<br/>
+</p>
+
+### Tools I know (Or I'm learning)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vscode,linux,arch" />
+  </a>
+</p>
