@@ -5,16 +5,10 @@
 - I'm constantly learning something different
 
 ### Code Languages I know (Or I'm learning)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" />
-  &nbsp; 🌱 Currently learning<br/>
-  <img src="https://skillicons.dev/icons?i=c" />
-  &nbsp; 🌱 Currently learning<br/>
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  &nbsp; 🌱 Currently learning<br/>
-  <img src="https://skillicons.dev/icons?i=python" />
-  &nbsp; 🌱 Currently learning<br/>
-</p>
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=arduino" /> | <img src="https://skillicons.dev/icons?i=c" /> | <img src="https://skillicons.dev/icons?i=cpp" /> | <img src="https://skillicons.dev/icons?i=python" /> |
+| 🌱 Currently learning | 🌱 Currently learning | 🌱 Currently learning | 🌱 Currently learning |
 
 ### Tools I know (Or I'm learning)
 <p align="center">
