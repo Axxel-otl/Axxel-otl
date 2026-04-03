@@ -30,4 +30,4 @@
 - [Whatsapp](https://wa.me/528116813460)
 - [Instagram](https://www.instagram.com/axxel.inkordia/)
 - [Discord](https://discord.com/users/1250441902957006848)
-- [Correo Electrónico](Axxel.Inkordia@proton.me)
+- [Correo Electrónico](mailto:Axxel.Inkordia@proton.me)
