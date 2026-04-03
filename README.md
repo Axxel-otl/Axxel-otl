@@ -28,6 +28,6 @@
 ## Feel free to DM me!
 ## Contact info:
 - [Whatsapp](https://wa.me/528116813460)
-- [Instagram](https://placeholder/)
-- [Discord](https://placeholder/)
+- [Instagram](https://www.instagram.com/axxel.inkordia/)
+- [Discord](https://discord.com/users/1250441902957006848)
 - [Correo Electrónico]- (Axxel.Inkordia@proton.me)
