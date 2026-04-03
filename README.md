@@ -27,3 +27,7 @@
 
 ## Feel free to DM me!
 ## Contact info:
+[Whatsapp](https://placeholder/)
+[Instagram](https://placeholder/)
+[Discord](https://placeholder/)
+[Correo Electrónico](https://placeholder/)
