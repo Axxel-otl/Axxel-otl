@@ -3,6 +3,8 @@
 - I wanna be a Robotics Engineer
 - I like music and videogames but I like robotics and technology the most
 - I'm constantly learning something different
+### Important projects
+- [Sonic (Ultrasonic library)](https://github.com/Axxel-otl/Sonic)
 
 ### Code Languages I know (Or I'm learning)
 | | | | |
@@ -26,7 +28,7 @@
 </p>
 
 ## Feel free to DM me!
-## Contact info:
+## Contact info
 - [Whatsapp](https://wa.me/528116813460)
 - [Instagram](https://www.instagram.com/axxel.inkordia/)
 - [Discord](https://discord.com/users/1250441902957006848)
