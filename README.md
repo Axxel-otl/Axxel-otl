@@ -1,4 +1,4 @@
-## Hi there! I'm Axxel-otl.
+## Howdy 🌼! I'm Axxel-otl.
 ### About me
 - I wanna be a Robotics Engineer
 - I like music and videogames but I like robotics and technology the most
@@ -24,3 +24,6 @@
   <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="48" />
   &nbsp; English — Intermediate<br/>
 </p>
+
+## Feel free to DM me!
+## Contact info:
