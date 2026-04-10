@@ -5,6 +5,7 @@
 - I'm constantly learning something different
 ### Important projects
 - [Sonic (Ultrasonic library)](https://github.com/Axxel-otl/Sonic)
+- [Me learning python with a Futbol mini-car](https://github.com/Axxel-otl/Learning-Python)
 
 ### Code Languages I know (Or I'm learning)
 | | | | |
