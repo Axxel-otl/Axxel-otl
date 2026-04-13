@@ -1,14 +1,13 @@
 ## Howdy 🌼! I'm Axxel-otl.
 ### About me
-- I dream with a world where robots are as normal as a chair
+- I dream of a world where robots are as normal as a chair
 - I like to name my robots and my possessions (My laptop's name is promethevs)
-- I have 2 prototypes of robot by now, one's called Spynox and the other Hormégatron
-- I wanna be a Robotics Engineer
-- I like music and videogames but I like robotics and technology the most
-- I'm constantly learning something new
+- I have 2 robot prototypes so far: one called Spynox and the other Hormégatron (I won't publish them 'til I evolve 'em a little)
+- I'll be a Robotics Engineer
+- Constantly in danger of burning something accidentally (or not)
 ### Important projects
 - [Sonic (Ultrasonic library)](https://github.com/Axxel-otl/Sonic)
-- [Me learning python with a Futbol mini-car](https://github.com/Axxel-otl/Learning-Python)
+- [Python mini-car — learning Python with a small football robot](https://github.com/Axxel-otl/Learning-Python)
 
 ### Code Languages I know (Or I'm learning)
 | | | | |
@@ -31,7 +30,7 @@
   &nbsp; English — Intermediate<br/>
 </p>
 
-## Feel free to DM me!
+## Feel free to DM me (DON'T BE WEIRD)!
 ## Contact info
 - [Instagram](https://www.instagram.com/axxel.inkordia/)
 - [Discord](https://discord.com/users/1250441902957006848)
