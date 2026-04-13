@@ -1,8 +1,11 @@
 ## Howdy 🌼! I'm Axxel-otl.
 ### About me
+- I dream with a world where robots are as normal as a chair
+- I like to name my robots and my possessions (My laptop's name is promethevs)
+- I have 2 prototypes of robot by now, one's called Spynox and the other Hormégatron
 - I wanna be a Robotics Engineer
 - I like music and videogames but I like robotics and technology the most
-- I'm constantly learning something different
+- I'm constantly learning something new
 ### Important projects
 - [Sonic (Ultrasonic library)](https://github.com/Axxel-otl/Sonic)
 - [Me learning python with a Futbol mini-car](https://github.com/Axxel-otl/Learning-Python)
@@ -11,7 +14,7 @@
 | | | | |
 |:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=arduino" /> | <img src="https://skillicons.dev/icons?i=c" /> | <img src="https://skillicons.dev/icons?i=cpp" /> | <img src="https://skillicons.dev/icons?i=python" /> |
-| 🌱 Currently learning | 🌱 Currently learning | 🌱 Currently learning | 🌱 Currently learning |
+| 🔥 Midway | 🌱 Currently learning | 🌱 Currently learning | 🌱 Currently learning |
 
 ### Tools I know (Or I'm learning)
 <p align="center">
@@ -30,7 +33,6 @@
 
 ## Feel free to DM me!
 ## Contact info
-- [Whatsapp](https://wa.me/528116813460)
 - [Instagram](https://www.instagram.com/axxel.inkordia/)
 - [Discord](https://discord.com/users/1250441902957006848)
 - [Correo Electrónico](mailto:Axxel.Inkordia@proton.me)
