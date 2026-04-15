@@ -10,10 +10,11 @@
 - [Python mini-car — learning Python with a small football robot](https://github.com/Axxel-otl/Learning-Python)
 
 ### Code Languages I know (Or I'm learning)
-| | | | |
+| Arduino | C | C++ | Python |
 |:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=arduino" /> | <img src="https://skillicons.dev/icons?i=c" /> | <img src="https://skillicons.dev/icons?i=cpp" /> | <img src="https://skillicons.dev/icons?i=python" /> |
 | 🔥 Midway | 🌱 Currently learning | 🌱 Currently learning | 🌱 Currently learning |
+| Some sensors and actuators | Basic printf and scanf | Basic std::cout and std::sin | Mostly nothing
 
 ### Tools I know (Or I'm learning)
 <p align="center">
@@ -34,4 +35,4 @@
 ## Contact info
 - [Instagram](https://www.instagram.com/axxel.inkordia/)
 - [Discord](https://discord.com/users/1250441902957006848)
-- [Correo Electrónico](mailto:Axxel.Inkordia@proton.me)
+- <Axxel.Inkordia@proton.me>
