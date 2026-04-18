@@ -7,7 +7,7 @@
 - Constantly in danger of burning something accidentally (or not)
 ### Important projects
 - [Sonic (Ultrasonic library)](https://github.com/Axxel-otl/Sonic)
-- [Python mini-car — learning Python with a small football robot](https://github.com/Axxel-otl/Learning-Python)
+- [Python mini-car - learning Python with a small football robot](https://github.com/Axxel-otl/Learning-Python)
 
 ### Code Languages I know (Or I'm learning)
 | Arduino | C | C++ | Python |
