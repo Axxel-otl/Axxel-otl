@@ -26,7 +26,7 @@
 ### Languages I speak
 <p align="center">
   <img src="https://flagicons.lipis.dev/flags/4x3/mx.svg" width="48" />
-  &nbsp; Español — Native<br/><br/>
+  &nbsp; Spanish — Native<br/><br/>
   <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="48" />
   &nbsp; English — Intermediate<br/>
 </p>
