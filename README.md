@@ -31,6 +31,9 @@
   &nbsp; English — Intermediate<br/>
 </p>
 
+### I liked this pseudo-kaomoji so I'm gonna put it here
+`𓆩𓆩\.xAx./𓆪𓆪`
+
 ## Feel free to DM me (DON'T BE WEIRD)!
 ## Contact info
 - [Instagram](https://www.instagram.com/axxel.inkordia/)
