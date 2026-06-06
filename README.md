@@ -6,7 +6,7 @@
 - I'll be a Robotics Engineer
 - Constantly in danger of burning something accidentally (or not)
 ### Important projects
-- [Sonic (Ultrasonic library)](https://github.com/Axxel-otl/Sonic
+- [Sonic (Ultrasonic library)](https://github.com/Axxel-otl/Sonic)
 - [Me learning how to make a coding language](https://github.com/Axxel.otl/Language)
 
 ### Code Languages I know (Or I'm learning)
