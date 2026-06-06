@@ -7,6 +7,7 @@
 - Constantly in danger of burning something accidentally (or not)
 ### Important projects
 - [Sonic (Ultrasonic library)](https://github.com/Axxel-otl/Sonic
+- [Me learning how to make a coding language](https://github.com/Axxel.otl/Language)
 
 ### Code Languages I know (Or I'm learning)
 | Arduino | C | C++ | Python |
@@ -25,9 +26,9 @@
 ### Languages I speak
 <p align="center">
   <img src="https://flagicons.lipis.dev/flags/4x3/mx.svg" width="48" />
-  &nbsp; Spanish — Native<br/><br/>
+  &nbsp; Spanish — C2 (Native)<br/><br/>
   <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="48" />
-  &nbsp; English — Intermediate<br/>
+  &nbsp; English — B2<br/>
 </p>
 
 ### I liked this pseudo-kaomoji so I'm gonna put it here
