@@ -5,6 +5,7 @@
 - I have 2 robot prototypes so far: one called Spynox and the other Hormégatron (I won't publish them 'til I evolve 'em a little)
 - I'll be a Robotics Engineer
 - Constantly in danger of burning something accidentally (or not)
+- INTP
 ### Important projects
 - [Sonic (Ultrasonic library)](https://github.com/Axxel-otl/Sonic)
 - [Me learning how to make a coding language](https://github.com/Axxel.otl/Language)
