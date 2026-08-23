@@ -8,7 +8,7 @@
 - INTP
 
 ## Stats
-![3D Contributions](./profile-3d-contrib/profile-green-animate.svg)
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## Important projects
 - [Sonic (Ultrasonic library)](https://github.com/Axxel-otl/Sonic)
