@@ -6,12 +6,12 @@
 - Constantly in risk of burning something
 - INTP
 
-## Stats
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ## Important projects
 - [Sonic (Ultrasonic library)](https://github.com/Axxel-otl/Sonic)
 - [My dotfiles for Linux (bedrock and arch supported)](https://github.com/Axxel-otl/InkordiousDotfiles)
+
+## Stats
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## Code Languages I know (Or I'm learning)
 | Arduino | C | C++ | Java | Python |
