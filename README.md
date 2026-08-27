@@ -10,6 +10,13 @@
 - [Sonic (Ultrasonic library)](https://github.com/Axxel-otl/Sonic)
 - [My dotfiles for Linux (bedrock and arch supported)](https://github.com/Axxel-otl/InkordiousDotfiles)
 
+## Tools I know (Or I'm learning)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://avatars.githubusercontent.com/u/5713885?s=60&v=4" /> <img src="https://skillicons.dev/icons?i=git,github,vscodium,linux,arch" />
+  </a>
+</p>
+
 ## Stats
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -19,13 +26,6 @@
 | <img src="https://skillicons.dev/icons?i=arduino" /> | <img src="https://skillicons.dev/icons?i=c" /> | <img src="https://skillicons.dev/icons?i=cpp" /> | <img src="https://skillicons.dev/icons?i=java" /> | <img src="https://skillicons.dev/icons?i=python" /> |
 | 🔥 Midway | 🌱 Currently learning | 🌱 Currently learning | 🔥 Starting fast for the FRC | 🔥 Midway |
 | Some sensors and actuators | Basic printf and scanf | Basic std::cout and std::sin | Declaring a spark | Mostly nothing |
-
-## Tools I know (Or I'm learning)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscodium,linux,arch" />
-  </a>
-</p>
 
 ## Languages I speak
 <p align="center">
